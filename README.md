@@ -63,7 +63,12 @@
 
 - 🤖 **Cyberbullying & Hate Speech Detection**  
   - Tech: Python, Flask, ML  
-  - Detects abusive and harmful content on social platforms  
+  - Detects abusive and harmful content on social platforms
+  - 
+- 🤖 **KRISHI-RAKSHAK- FARMING ASSISTANT**  
+  - Tech: Python, Flask, ML  
+  - Detects dieses from pictures of plants
+
 
 ---
 <div align="center">
