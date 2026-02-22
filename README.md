@@ -3,10 +3,12 @@
 ------
 
 ### 🚀 About Me
-- 🎓 MCA Student | Aspiring Software Engineer  
+- 🎓 MCA Student | Aspiring Software Engineer
+- 🤖 Passionate about Machine Learning, NLP , Data Analytics
 - 💻 Python • Web Development • Backend  
 - 🌱 Currently learning Flask, ML basics & system design  
-- ⚡ Passionate about building real-world projects  
+- ⚡ Passionate about building real-world projects
+- 🏆 Hackathon Winner(E.D.G.E mini project hackathon)
 
 ---
 
