@@ -13,23 +13,23 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=initVD-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=initVD-007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=initVD-007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Vaidik-Pipaliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Vaidik-Pipaliya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidik-Pipaliya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=initVD-007&theme=darkhub&no-frame=false&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Vaidik-Pipaliya&theme=darkhub&no-frame=false&row=1&column=7)
 
 ---
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=initVD-007&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Vaidik-Pipaliya&theme=react-dark)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=initVD-007&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Vaidik-Pipaliya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -74,7 +74,7 @@
 
 ---
 <div align="center">
-<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhybWdnMGR2bXpoYXlrZTN1MXpsd3YxNG52ZjQyNWF6Z2prMnU4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif">
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhybWdnMGR2bXpoYXlrZTN1MXpsd3YxNG52ZjQyNWF6Z2prMnU4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.g[...]
 </div>
 
 
